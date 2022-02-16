@@ -1,4 +1,4 @@
-Instruções de comandos para expor seu codigo remotamente no github
+#Instruções de comandos para expor seu codigo remotamente no github
 
 
 1°use "git add ." dentro da pasta de deseja alocar remotamente, para adicionar todas as alterações ao Git
